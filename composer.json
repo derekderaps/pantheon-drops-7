@@ -1,0 +1,15 @@
+{
+    "name": "derekderaps/pantheon-drops-7",
+    "description": "A mirror of the `pantheon-systems/drops-7` project with all git history squashed. Because, c'mon, it takes too long to clone!",
+    "type": "project",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "",
+            "role": ""
+        }
+    ],
+    "conflict": {
+        "drupal/core": "8.*"
+    }
+}
